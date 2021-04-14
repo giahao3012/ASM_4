@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\ASM_4\ASM_4\bin\Debug\ASM_4.exe.config
+C:\Users\DELL\source\repos\ASM_4\ASM_4\bin\Debug\ASM_4.exe
+C:\Users\DELL\source\repos\ASM_4\ASM_4\bin\Debug\ASM_4.pdb
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.frmLogin.resources
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.Properties.Resources.resources
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.exe
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.pdb
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.frmChangeAccount.resources
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.frmMaintainBooks.resources
+C:\Users\DELL\source\repos\ASM_4\ASM_4\obj\Debug\ASM_4.frmReportBook.resources
